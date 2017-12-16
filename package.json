@@ -24,7 +24,7 @@
   },
   "_npmUser": {
     "name": "drawio",
-    "email": "npm@jgraph.com"
+    "email": "bakkareayomideo@gmail.com"
   },
   "_npmVersion": "3.5.2",
   "_phantomChildren": {},
@@ -51,7 +51,7 @@
     "email": "support@jgraph.com"
   },
   "bugs": {
-    "url": "https://github.com/jgraph/mxgraph/issues"
+    "url": "https://github.com/mbao01/mxgraph-clean/issues"
   },
   "dependencies": {
     "grunt": "^1.0.1",
@@ -69,7 +69,7 @@
     "shasum": "1066f63fa63a8647dcdb0f1d8ccdbc191e6ed452",
     "tarball": "https://registry.npmjs.org/mxgraph/-/mxgraph-3.7.4.tgz"
   },
-  "homepage": "https://github.com/jgraph/mxgraph",
+  "homepage": "https://github.com/mbao01/mxgraph-clean",
   "license": "Apache-2.0",
   "main": "./javascript/dist/build.js",
   "maintainers": [
@@ -87,7 +87,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgraph/mxgraph.git"
+    "url": "git+https://github.com/mbao01/mxgraph-clean.git"
   },
   "scripts": {
     "postinstall": "grunt build --base \"$(npm prefix)\" --gruntfile etc/build/Gruntfile.js"
